@@ -7,6 +7,7 @@
 
 JSGPT Chatbot is a simple Android chat application that integrates with the OpenAI GPT-3 model to provide natural language understanding and generation capabilities. This chatbot allows users to have conversations with a virtual assistant powered by OpenAI's advanced language model.
 
+
 ## Features
 - Real-time chat interface.
 - Integration with OpenAI GPT-3 for responses.
@@ -22,6 +23,7 @@ Follow these steps to set up and run the JSGPT Chatbot app on your Android devic
 2. Open the project in Android Studio.
 
 3. Build and run the project on your Android device or emulator.
+
 
 ## Usage
 
