@@ -1,13 +1,11 @@
 # CHATBOT
 
 # JSGPT Chatbot
-
-
+![chatbot2](https://github.com/JoseSagwe/CHATBOT/assets/110198843/fb90704d-a667-4c92-8cf3-37194c07be0e)
 
 JSGPT Chatbot is a simple Android chat application that integrates with the OpenAI GPT-3 model to provide natural language understanding and generation capabilities. This chatbot allows users to have conversations with a virtual assistant powered by OpenAI's advanced language model.
 
 ## Features
-
 - Real-time chat interface.
 - Integration with OpenAI GPT-3 for responses.
 - Message categorization between user and chatbot.
@@ -18,10 +16,6 @@ JSGPT Chatbot is a simple Android chat application that integrates with the Open
 Follow these steps to set up and run the JSGPT Chatbot app on your Android device:
 
 1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/jsgpt-chatbot.git
-   ```
 
 2. Open the project in Android Studio.
 
@@ -54,24 +48,4 @@ To configure the app to work with your OpenAI GPT-3 API, you will need to:
 
 2. Customize the chatbot's behavior and responses by modifying the parameters in the `jsonBody` object within the `callAPI` method.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and commit them.
-
-4. Create a pull request with a clear description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This app uses the OpenAI GPT-3 model for natural language processing.
-
-## Contact
