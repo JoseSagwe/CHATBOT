@@ -14,7 +14,6 @@ JSGPT Chatbot is a simple Android chat application that integrates with the Open
 - Message categorization between user and chatbot.
 - Responsive UI for a smooth chat experience.
 
-
 ## Installation
 
 Follow these steps to set up and run the JSGPT Chatbot app on your Android device:
