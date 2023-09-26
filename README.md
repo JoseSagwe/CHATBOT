@@ -22,7 +22,6 @@ Follow these steps to set up and run the JSGPT Chatbot app on your Android devic
 
 3. Build and run the project on your Android device or emulator.
 
-
 ## Usage
 
 1. Open the JSGPT Chatbot app on your Android device.
