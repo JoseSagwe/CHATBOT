@@ -11,7 +11,6 @@ JSGPT Chatbot is a simple Android chat application that integrates with the Open
 - Responsive UI for a smooth chat experience.
 
 ## Installation
-
 Follow these steps to set up and run the JSGPT Chatbot app on your Android device:
 
 1. Clone the repository to your local machine:
@@ -31,7 +30,6 @@ Follow these steps to set up and run the JSGPT Chatbot app on your Android devic
 4. Continue the conversation by alternating between user and chatbot messages.
 
 ## Dependencies
-
 - [OkHttp](https://square.github.io/okhttp/): Used for making HTTP requests to the OpenAI API.
 - AndroidX libraries: Used for Android app development components.
 
