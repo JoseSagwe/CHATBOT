@@ -8,8 +8,6 @@ JSGPT Chatbot is a simple Android chat application that integrates with the Open
 
 ## Features
 
-
-
 - Real-time chat interface.
 - Integration with OpenAI GPT-3 for responses.
 - Message categorization between user and chatbot.
