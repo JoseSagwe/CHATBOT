@@ -1,7 +1,4 @@
 
-
-
-
 # CHATBOT
 
 # JSGPT Chatbot
