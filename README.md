@@ -1,5 +1,7 @@
 # CHATBOT
 
+
+
 # JSGPT Chatbot
 
 ![chatbot2](https://github.com/JoseSagwe/CHATBOT/assets/110198843/fb90704d-a667-4c92-8cf3-37194c07be0e)
